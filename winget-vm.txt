@@ -1,0 +1,15 @@
+7zip.7zip
+DBBrowserForSQLite.DBBrowserForSQLite
+ExpressVPN.ExpressVPN
+Google.Chrome
+Google.Chrome.Beta
+Microsoft.EdgeBeta
+Mozilla.Firefox
+Mozilla.FirefoxNightly
+Notepad++.Notepad++
+JAMSoftware.TreeSizeFree
+VideoLAN.VLC
+VMware.HorizonClient
+TorProject.TorBrowser
+Microsoft.WindowsTerminalPreview
+Microsoft.PowerShell.Preview
