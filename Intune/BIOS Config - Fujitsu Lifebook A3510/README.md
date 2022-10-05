@@ -1,4 +1,4 @@
-This Intune app will deploy a standard BIOS configuration to Fujitsu Lifebook A3510 Laptops. By default the app will disable access to the Boot Menu and set a BIOS password.
+This Intune app will deploy a standard BIOS configuration to Fujitsu Lifebook A3510 Laptops. By default, the app will disable access to the Boot Menu and set a BIOS password.
 
 To deploy as an Intune app, all files must be prepped using the [Microsoft Win32 Content Prep Tool](https://github.com/Microsoft/Microsoft-Win32-Content-Prep-Tool).
 
