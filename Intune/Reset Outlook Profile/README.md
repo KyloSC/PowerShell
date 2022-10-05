@@ -13,7 +13,7 @@ To deploy as an Intune app, all files must be prepped using the [Microsoft Win32
 
 **Detection Rule:**
 
-**Run type:** File
+**Rule type:** File
 
 **Path:** C:\Intune\
 
