@@ -1,0 +1,1 @@
+This script will connect to the local Citrix Delivery Controller and report on the most recent logon times to the NetScaler. This will allow you to confirm that successful logons are being performed. This information is then sent via email.
