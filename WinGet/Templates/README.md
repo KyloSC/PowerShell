@@ -1,4 +1,4 @@
-This script uses a pre-defined template of WinGet packages which can be deployed in mass on new builds. Some exmaple templates included are:
+This script uses a pre-defined template of WinGet packages which can be deployed in mass on new builds. Some example templates included are:
 
 * winget-corporate.csv
 * winget-personal.csv
