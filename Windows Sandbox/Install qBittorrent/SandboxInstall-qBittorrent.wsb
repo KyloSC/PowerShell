@@ -1,0 +1,11 @@
+<Configuration>
+<MappedFolders>
+   <MappedFolder>
+     <HostFolder>C:\Data\Sandbox</HostFolder>
+     <ReadOnly>true</ReadOnly>
+   </MappedFolder>
+</MappedFolders>
+<LogonCommand>
+   <Command>PowerShell -ExecutionPolicy Unrestricted -File C:\Users\WDAGUtilityAccount\Desktop\Sandbox\Install-qBittorrent.ps1"</Command>
+</LogonCommand>
+</Configuration>
