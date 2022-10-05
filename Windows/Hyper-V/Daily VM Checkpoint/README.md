@@ -1,0 +1,1 @@
+This script will create a checkpoint on all Hyper-V VMs. As part of the process, any checkpoints older than $Days will be removed. If a checkpoint has already been taken in the last 12 hours, the script will initiate an exit code. This script was intended to be run as a scheduled task upon startup/logon.
