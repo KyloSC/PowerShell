@@ -10,7 +10,6 @@ To deploy as an Intune app, all files must be prepped using the [Microsoft Win32
 
 **Install behaviour:** SYSTEM
 
-
 **Detection Rule:**
 
 **Rule type:** File
