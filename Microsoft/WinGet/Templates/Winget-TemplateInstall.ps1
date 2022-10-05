@@ -18,9 +18,9 @@
     WinGet Package Manager
 #>
 
-$corporate = "https://raw.githubusercontent.com/KyloSC/Public/master/WinGet/Templates/winget-corporate.csv"
-$personal = "https://raw.githubusercontent.com/KyloSC/Public/master/WinGet/Templates/winget-personal.csv"
-$vmtest = "https://raw.githubusercontent.com/KyloSC/Public/master/WinGet/Templates/winget-vm.csv"
+$corporate = "https://raw.githubusercontent.com/KyloSC/PowerShell/master/Microsoft/WinGet/Templates/winget-corporate.csv"
+$personal = "https://raw.githubusercontent.com/KyloSC/PowerShell/master/Microsoft/WinGet/Templates/winget-personal.csv"
+$vmtest = "https://raw.githubusercontent.com/KyloSC/PowerShell/master/Microsoft/WinGet/Templates/winget-vm.csv"
 $temp = "C:\Windows\Temp\"
 $template = Read-Host -Prompt "Please select a template. C = Corporate, P = Personal, V = Virtual Test Machine"
 
