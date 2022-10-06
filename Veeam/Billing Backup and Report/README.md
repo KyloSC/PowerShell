@@ -1,0 +1,1 @@
+This script will backup all existing Veeam Billing Reports to another network based server, it is designed to run on a remote server, not the Veeam Backup server. It will then send the latest report via email to specified email recipients.
